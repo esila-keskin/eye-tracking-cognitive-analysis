@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / environments
+env/
+venv/
+*.conda
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep raw data local, not on GitHub)
+data/raw/
+data/processed/
+
+# Temporary files
+*.tmp
+*.log
